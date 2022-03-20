@@ -2,4 +2,4 @@
 shopping online website using laravel
 
 
-Important !!!!! (extract public folder)
+Important !!!!! (extract public.rar folder)
